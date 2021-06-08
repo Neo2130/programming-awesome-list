@@ -139,7 +139,8 @@ A curated list of useful tools, libraries, resources all around the topic of gam
 - [ReactPhysics3D](https://www.reactphysics3d.com/) C++ physics engine library for 3D simulations and games
 
 ### AI
-*nothing yet*
+- [GOAP](http://alumni.media.mit.edu/~jorkin/goap.html) Goal orientated action planning; creating AI behaviour through goals and actions.
+- [Steering behaviour](https://gamedevelopment.tutsplus.com/series/understanding-steering-behaviors--gamedev-12732) Vector based movement for NPCs.
 
 ### Networking
 
